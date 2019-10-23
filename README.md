@@ -1,5 +1,11 @@
 My Heroku App: https://polar-eyrie-58960.herokuapp.com/
 
+Cucumber Coverage
+![alt Cucumber Coverage](https://github.com/YIWEI-CHEN/hw-acceptance-unit-test-cycle/blob/master/cucumber_coverage.png)
+
+RSpec Coverage
+![alt RSpec Coverage](https://github.com/YIWEI-CHEN/hw-acceptance-unit-test-cycle/blob/master/rspec_coverage.png)
+
 Acceptance-Unit Test Cycle
 ===
 
